@@ -1,6 +1,9 @@
 /**
  * http://usejsdoc.org/
  */
+
+// these are model
+
 var mongoose = require('mongoose');
 
 var Schema = mongoose.Schema;

@@ -1,6 +1,7 @@
 /**
  * http://usejsdoc.org/
  */
+// these are model
 
 var mongoose = require('mongoose');
 var bcrypt =require('bcrypt-nodejs');  //safe way to store user password
