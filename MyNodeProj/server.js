@@ -15,7 +15,7 @@ mongoose.connect(config.database, function(err) {
 	if(err){
 		console.log(err);
 	}else{
-		console.log("Connect to mongoDB");
+		console.log("Connect to mongoDB here");
 	}		
 })
 
