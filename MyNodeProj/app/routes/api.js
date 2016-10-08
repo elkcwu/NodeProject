@@ -25,7 +25,7 @@ function createToken(user){
 
 
 
-
+//these are the controllers
 module.exports = function(app, express){
 	var api = express.Router(); // create modular, mountable route handlers. A Router instance is a complete middleware and routing system; for this reason, 
 	//                          it is often referred to as a “mini-app”.
